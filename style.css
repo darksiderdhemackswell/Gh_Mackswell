@@ -1,0 +1,148 @@
+}
+th{
+    padding: 20px;
+    background-color: #9f4606;
+}
+.img2{
+    border: 2px solid ,rgb(71, 71, 41);
+    border-radius: 5px;
+    width: 80px;
+   
+}
+.form{
+    margin-left:100px;
+    margin-top: 30px; 
+    width: 80vw;
+    min-height: 20vw;
+    height: 90vh;
+    min-height: 20vh;
+    box-sizing: border-box;
+    box-shadow: 0 1px 9px rgb(139, 139, 139); 
+    padding-left: 50px;
+    padding-top: 30px;
+}
+ .pro{
+    font-size: 34px;
+    font-family: arial;
+    font-weight: bold;
+    
+
+ }
+ .please{
+    font-size: 30px;
+    font-family: arial;
+    padding-top: 25px 0 25px 0;
+ }
+#fname{
+    font-size: 24px;
+    padding-bottom: 15px 0 15px 0;
+}
+#email{
+      font-size: 24px;
+    padding-bottom: 15px 0 15px 0;
+
+}
+#pnumber{
+      font-size: 24px;
+    padding-bottom: 15px 0 15px 0;
+}
+#Address{
+      font-size: 24px;
+    padding-bottom: 15px 0 15px 0;
+
+}
+input{
+      font-size: 24px;
+       width: 40%;
+       padding: 12px;
+       border: 1px solid #ccc;
+       border-radius: 4px;
+       box-sizing: border-box;
+       color: #333;
+
+
+}
+#mail{
+     width: 80%;
+
+}
+#num{
+    width: 80%;
+
+}
+.btn{
+    background-color: rgb(31, 31, 82);
+    padding: 10px;
+}
+.getIn{
+    padding-top: 30px;
+    font-size: 34px;
+    font-family: arial;
+    font-weight: bold;
+    padding-left: 30px;
+
+}
+#p1{
+    font-size: 18px;
+    font-family: arial;
+    padding-left: 30px;
+}
+#bigbox1{
+      width: 90vw;
+       height: 80vh;
+       max-height: 80vh;
+       display: flex;
+      gap: 20px;
+       border-radius: 15px;
+       background-color: rgb(255, 255, 254);
+     margin: auto;
+     margin-top: 40px; 
+    box-shadow: 0 1px 9px rgb(139, 139, 139);
+   flex-direction: row;
+   font-family: sans-serif;
+}
+.card2{
+    padding-top: 30px ;
+    width: 45vw ;
+    min-width: 20vw;
+    height: 60vh;
+    box-shadow: 0 1px 9px rgb(139, 139, 139);
+       flex-direction: row;
+       background-color: #ce870448;
+       border-radius: 12px;
+       margin-top: 30px;
+       margin: auto;
+
+
+
+}
+#add{
+    width: 80%;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    box-sizing: border-box;
+    font-size: 16px;
+       margin-left: 80px;
+    
+
+}
+#message{
+    height: 200px;
+    resize: none;
+    width: 80%;
+     border-radius: 8px;
+
+    padding: 10px;
+    margin-left: 80px;
+
+    }
+
+  .btn2{
+         background-color: rgba(82, 58, 31, 0.205);
+    padding: 10px;
+    width: 85%;
+    padding: auto;
+  margin-left: 80px;
+
+    }
